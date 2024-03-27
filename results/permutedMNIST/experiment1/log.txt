@@ -1,0 +1,7 @@
+Experiment 1
+
+Permuted MNIST
+No coreset
+50 epochs
+LR = 1e-3
+BATCH_SIZE = 256

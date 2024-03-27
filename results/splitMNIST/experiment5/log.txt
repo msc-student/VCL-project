@@ -1,0 +1,9 @@
+Experiment 5
+
+Split MNIST
+Random coreset
+Coreset size 40
+20 epochs
+LR = 1e-3
+BATCH_SIZE = 256
+Initial variance 1e-6

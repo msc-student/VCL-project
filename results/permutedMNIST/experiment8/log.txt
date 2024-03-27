@@ -1,0 +1,6 @@
+Experiment 8
+
+Permuted MNIST
+Random coreset
+200
+50 epochs

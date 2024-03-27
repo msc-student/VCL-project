@@ -1,0 +1,6 @@
+Experiment 4
+
+Permuted Fashion MNIST
+Random coreset
+200
+50 epochs
